@@ -87,5 +87,5 @@ cold-email-generator/
 ## 👨💻 Author
 
 **Adarsh S**  
-M.Tech in Artificial Intelligence 
+M.Tech in Artificial Intelligence   
 Interested in Generative AI, LLM Applications, and Production AI Systems.
